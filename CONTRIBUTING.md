@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 Test de conflit :
--> modif locale (sur un éditeur de mon PC)
+-> modif locale (sur un éditeur de mon PC (emacs ❤️)
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
